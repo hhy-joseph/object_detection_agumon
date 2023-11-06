@@ -2,6 +2,8 @@
 
 This is an example usage of Faster R-CNN in OpenMMLab toolbox for object detection.
 
+![](example1.PNG)
+
 Pictures for agumon are collected and then annotated by LabelBee with bounding box.
 
 The labels of the pictures are saved in coco format. 
